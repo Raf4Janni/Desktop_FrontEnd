@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Desktop_TCC
 {
-    public partial class Form1 : Form
+    public partial class ListaPessoas : Form
     {
-        public Form1()
+        public ListaPessoas()
         {
             InitializeComponent();
         }
